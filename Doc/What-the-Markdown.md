@@ -44,7 +44,7 @@ The result:
 ![Italics](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Italics.png)
 
 ## Lists
-*this section is work in progress*
+Lists are essential to organise bulletpointts, make rankings or make a table of content. In Markdown, there are two types of lists: Ordered and unordered lists.
 ## More text styles
 *this section is work in progress*
 ## Quoting text
