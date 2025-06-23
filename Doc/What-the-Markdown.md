@@ -23,8 +23,26 @@ Headings:
 ## Heading 2
 ### Heading 3
 ```
-the result from that code:
-![headings]()
+The result:
+
+![headings](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Headings.png)
+
+Bold text:
+```Markdown
+**bold text**
+```
+The result:
+
+![Bold text](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Bold.png)
+
+Italics:
+```Markdown
+*italicized text*
+```
+The result:
+
+![Italics](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Italics.png)
+
 ## Lists
 ## More text styles
 ## Quoting text
