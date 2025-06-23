@@ -18,7 +18,7 @@ Markdown is a simple and lightweight markup language that lets you format text s
 In Markdown, there are quite a few different formats or *styles* your text can take on. Here are the **essential** formats that you likely will use the most, as those are **essential** to structuring your Documentation:
 
 Headings:
-```Markdown
+```md
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -28,7 +28,7 @@ The result:
 ![headings](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Headings.png)
 
 Bold text:
-```Markdown
+```md
 **bold text**
 ```
 The result:
@@ -36,7 +36,7 @@ The result:
 ![Bold text](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Bold.png)
 
 Italics:
-```Markdown
+```md
 *italicized text*
 ```
 The result:
@@ -44,11 +44,20 @@ The result:
 ![Italics](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Italics.png)
 
 ## Lists
+*this section is work in progress*
 ## More text styles
+*this section is work in progress*
 ## Quoting text
+*this section is work in progress*
 ## Inserting code and code blocks
+*this section is work in progress*
 ## Making a table of contents
+*this section is work in progress*
 ## Embedding links
+*this section is work in progress*
 ## Embedding images
+*this section is work in progress*
 ## Embedding badges
+*this section is work in progress*
 ## Closing thoughts
+*this section is work in progress*
