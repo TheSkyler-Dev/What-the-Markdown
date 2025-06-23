@@ -1,4 +1,4 @@
-# How to Markdown
+# What the Markdown
 In this repository you will find an example documentation that not only shows you how a good, well-structured documentation *could* look like - **while teaching you Markdown syntax!**
 
 ## How you can dive deeper into Markdown:
