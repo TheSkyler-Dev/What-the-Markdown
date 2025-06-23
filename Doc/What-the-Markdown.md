@@ -15,7 +15,7 @@
 ## Getting Started
 Markdown is a simple and lightweight markup language that lets you format text so it's more structured and readable. It plays a big loe in our everyday lives - without us noticing. It also plays a huge part in the life of a **software engineer**! GitHub, GitLab, Obsidian, Jupyther notebooks and even Discord messages use or support Markdown to some capacity in their own ways. The most common form of Markdown is **standard Markdown**, which is fully supported by GitHub, GitLab and Obsidian, just to name a few. In this document, you will learn the *basics* of the **standard implementation of Markdown**.
 ## Basic text styles
-In Markdown, there are quite a few different formats or *styles* your text can take on. Here are the **essential** formats that you likely will use the most, as those are essentail to structuring your Documentation:
+In Markdown, there are quite a few different formats or *styles* your text can take on. Here are the **essential** formats that you likely will use the most, as those are **essential** to structuring your Documentation:
 
 Headings:
 ```Markdown
