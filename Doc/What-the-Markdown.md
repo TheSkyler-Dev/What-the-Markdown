@@ -44,7 +44,28 @@ The result:
 ![Italics](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/Italics.png)
 
 ## Lists
-Lists are essential to organise bulletpointts, make rankings or make a table of content. In Markdown, there are two types of lists: Ordered and unordered lists.
+Lists are essential to organise bulletpointts, make rankings or make a table of content. In Markdown, there are two types of lists: Ordered and unordered lists. Here are some examples:
+
+Unordered list:
+```md
+- item 1
+- item 2
+- item3
+```
+Result:
+
+![Unordered List](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/UnorderedList.png)
+
+Ordered list:
+```md
+1. item 1
+2. item 2
+3. item 3
+```
+Result:
+
+![Ordered List](https://github.com/TheSkyler-Dev/What-the-Markdown/blob/main/Doc/Img/OrderedList.png)
+
 ## More text styles
 *this section is work in progress*
 ## Quoting text
